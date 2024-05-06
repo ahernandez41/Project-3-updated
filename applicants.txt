@@ -1,0 +1,2 @@
+Name: Arianna, Email: Hernandez, Gender: ari.hernandez0010@gmail.com, Grade Level: High School Student, GPA: 3.10
+Name: arianna, Email: hernandez, Gender: ari.hernandez0010@gmail.com, Grade Level: Current Sac State Student, GPA: 3.10
